@@ -2,7 +2,7 @@ Get all the countries with a population of less than 2 lakhs using Filter method
 
 
 <html><head>
-    <title></title>
+    <title> POPULATION </title>
 </head>
 <script>
     var request1 = new XMLHttpRequest();
